@@ -1,0 +1,1086 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"small",
+				"small\tTag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"curre",
+				"currentSection"
+			],
+			[
+				"link",
+				"linkticle"
+			],
+			[
+				"del",
+				"delayedCall"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"console",
+				"console.log"
+			],
+			[
+				"onMouse",
+				"onMouseDown"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"li",
+				"library\t(default.html)"
+			],
+			[
+				"one",
+				"onepage\t(_lnkt.scss)"
+			],
+			[
+				"ev_",
+				"ev_target"
+			],
+			[
+				"owl",
+				"owl.carousel\t(config.yml)"
+			],
+			[
+				"ow",
+				"owl.carousel"
+			],
+			[
+				"ass",
+				"assets"
+			],
+			[
+				"set",
+				"set_carousel"
+			],
+			[
+				"med",
+				"medium-6"
+			],
+			[
+				"rem",
+				"rem-calc"
+			],
+			[
+				"wh",
+				"white\t(index.html)"
+			],
+			[
+				"padding",
+				"padding-right\t(_realtyp.scss)"
+			],
+			[
+				"tra",
+				"transparent\t(_realtyp.scss)"
+			],
+			[
+				"text",
+				"text-center\t(index.html)"
+			],
+			[
+				"menu",
+				"menu-item\t(topbar.html)"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"place",
+				"placeholder\tAttr"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"category",
+				"category1"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"object",
+				"object-wrapper"
+			],
+			[
+				"obj",
+				"object-wrapper"
+			],
+			[
+				"top",
+				"top-offers"
+			],
+			[
+				"list",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"vertical",
+				"vertical-align\t(_global.scss)"
+			],
+			[
+				"sec",
+				"section-wrapper"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"pla",
+				"placehold.it/380x260"
+			],
+			[
+				"mediu",
+				"medium-2"
+			],
+			[
+				"sma",
+				"small-12"
+			],
+			[
+				"hide",
+				"hide-for-small-only\t(topbar.html)"
+			],
+			[
+				"mui",
+				"mui-slide\t(transitions.md)"
+			],
+			[
+				"dis",
+				"display\t(_top-bar.scss)"
+			],
+			[
+				"z",
+				"zindex\t(_settings.scss)"
+			],
+			[
+				"coo",
+				"cookie"
+			],
+			[
+				"new",
+				"newcookie"
+			],
+			[
+				"co",
+				"cookie"
+			],
+			[
+				"out",
+				"outerWidth"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"medium",
+				"medium-6\t(clubpagemembers_member_leader.html)"
+			],
+			[
+				"sch",
+				"school"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"clubp",
+				"clubpage"
+			],
+			[
+				"ico",
+				"icons\t(_sc.scss)"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"dar",
+				"dark-gray"
+			],
+			[
+				"SC",
+				"SC-dark-blue-hover"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"light",
+				"light-gray"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"cal",
+				"rem-calc"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"slide",
+				"slide-out"
+			],
+			[
+				"animat",
+				"animation-name"
+			],
+			[
+				"anima",
+				"animation-name"
+			],
+			[
+				"animatio",
+				"animation-duration"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"sc",
+				"SC-light-blue"
+			],
+			[
+				"bca",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"bacgr",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"header",
+				"header-font-family"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"ic",
+				"icons"
+			],
+			[
+				"move",
+				"move-right"
+			],
+			[
+				"bod",
+				"body-font"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"copy",
+				"copy_a"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"str",
+				"string\tkeyword"
+			],
+			[
+				"ang",
+				"angular"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/assets/scss/_settings.scss",
+			"settings":
+			{
+				"buffer_size": 14696,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/components/_lnkt.scss",
+			"settings":
+			{
+				"buffer_size": 10457,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "lnkt.scss"
+			}
+		},
+		{
+			"file": "src/assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 27627,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/pages/index.html",
+			"settings":
+			{
+				"buffer_size": 2940,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/partials/header.html",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: insta",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"npm update -g typescript",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/lnkt",
+		"/E/lnkt/src",
+		"/E/lnkt/src/assets",
+		"/E/lnkt/src/assets/js",
+		"/E/lnkt/src/assets/js/library",
+		"/E/lnkt/src/assets/scss",
+		"/E/lnkt/src/layouts",
+		"/E/lnkt/src/partials"
+	],
+	"file_history":
+	[
+		"/E/lnkt/src/assets/scss/app.scss",
+		"/E/lnkt/src/layouts/default.html",
+		"/E/lnkt/src/partials/header.html",
+		"/E/lnkt/config.yml",
+		"/E/lnkt/src/assets/js/library/a3.min.js",
+		"/E/lnkt/src/assets/js/library/a3.js",
+		"/E/lnkt/src/assets/js/library/modernizr-custom.js",
+		"/E/lnkt/src/assets/js/library/rAF.js",
+		"/E/lnkt/src/assets/js/script.js",
+		"/E/lnkt/dist/assets/js/script.js",
+		"/E/lnkt/src/assets/js/app.js",
+		"/E/lnkt/dist/assets/js/library/a3.min.js",
+		"/E/lnkt/gulpfile.babel.js",
+		"/E/rp/src/assets/scss/components/_home.scss",
+		"/E/rp/src/assets/scss/components/_header.scss",
+		"/E/rp/src/assets/scss/components/_realtyp.scss",
+		"/E/rp/src/partials/footer.html",
+		"/E/rp/src/assets/scss/components/_topbar.scss",
+		"/E/rp/src/assets/scss/components/_icons.scss",
+		"/E/rp/src/partials/header.html",
+		"/E/rp/src/partials/topbar.html",
+		"/E/rp/config.yml",
+		"/E/rp/src/assets/js/app.js",
+		"/E/rp/src/pages/index.html",
+		"/E/rp/src/layouts/default.html",
+		"/E/rp/src/assets/owl-carousel/owl.carousel.js",
+		"/E/rp/src/assets/scss/_settings.scss",
+		"/E/rp/src/assets/scss/app.scss",
+		"/E/rp/src/assets/scss/components/font-awesome.min.css",
+		"/E/rp/src/assets/scss/components/_footer.scss",
+		"/E/rp/src/assets/scss/components/_fonts.scss",
+		"/E/rp/src/assets/scss/_realtyp.scss",
+		"/C/Users/Bobb/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/rp/bower_components/foundation-sites/scss/_global.scss",
+		"/C/Users/Bobb/AppData/Local/Temp/fz3temp-1/home1.less",
+		"/C/Users/Bobb/AppData/Local/Temp/fz3temp-1/home.less",
+		"/E/rp/bower_components/foundation-sites/bower.json",
+		"/C/Users/Bobb/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Bobb/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Bobb/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/E/rp/bower_components/foundation-sites/scss/components/_top-bar.scss",
+		"/E/dc/prodesign/BACB/email/sign/src/pages/index.html",
+		"/E/dc/prodesign/BACB/email/sign/src/assets/scss/app.scss",
+		"/E/dc/prodesign/BACB/email/sign/src/pages/index-en.html",
+		"/E/SC_f62/src/partials/pageHeaderFilter.html",
+		"/E/SC_f62/src/partials/offcanvasPageHeader.html",
+		"/E/SC_f62/src/assets/js/app.js",
+		"/E/SC_f62/src/assets/scss/components/_topbar.scss",
+		"/E/SC_f62/src/assets/scss/_settings.scss",
+		"/E/SC_f62/src/assets/scss/components/_select.scss",
+		"/E/SC_f62/src/assets/scss/components/_sc.scss",
+		"/E/SC_f62/src/pages/clubcalendar.html",
+		"/E/SC_f62/src/pages/index.html",
+		"/E/SC_f62/src/pages/addpaymentdetails.html",
+		"/E/SC_f62/src/pages/schoolregistration.html",
+		"/E/SC_f62/src/partials/dashboardActivityStream.html",
+		"/E/SC_f62/src/pages/dashboard_parent.html",
+		"/E/SC_f62/src/pages/clubpagemembers_member_leader.html",
+		"/E/SC_f62/dist/assets/js/app.js",
+		"/E/SC_f62/config.yml",
+		"/E/SC_f62/src/pages/dashboard.html",
+		"/E/SC_f62/src/pages/clubpagemembers.html",
+		"/E/SC_f62/src/pages/clubpagesessions.html",
+		"/E/SC_f62/src/partials/clubPageSessions_Session.html",
+		"/E/SC_f62/src/assets/scss/components/_helpers.scss",
+		"/E/SC_f62/src/assets/scss/components/_clubitem.scss",
+		"/E/SC_f62/src/pages/clubpage.html",
+		"/E/SC_f62/src/partials/clubPageSidebar.html",
+		"/E/SC_f62/src/partials/clubItem.html",
+		"/E/SC_f62/src/pages/myclubz.html",
+		"/E/SC_f62/src/assets/scss/app.scss",
+		"/E/SC_f62/src/pages/clubroles.html",
+		"/E/SC_f62/src/pages/quickclubcreate.html",
+		"/E/dc/prodesign/BACB/mail template/template.html",
+		"/E/SC_f62/src/assets/scss/components/_table.scss",
+		"/E/SC_f62/src/partials/asideNavigation.html",
+		"/E/SC_f62/src/assets/scss/components/_calendarium.scss",
+		"/E/SC_f62/src/pages/inviteparents.html",
+		"/E/SC_f62/bower_components/foundation-sites/scss/components/_table.scss",
+		"/E/SC_f62/src/pages/furthercustomisations.html",
+		"/E/SC_f62/src/partials/clubSettingsSidemenu.html",
+		"/E/SC_f62/dist/registerform.html",
+		"/E/SC_f62/src/pages/assignclubleader.html",
+		"/E/SC_f62/src/pages/mainclubdetails.html",
+		"/E/SC_f62/src/pages/createclubcalendar.html",
+		"/E/SC_f62/src/layouts/default.html",
+		"/E/SC_f62/src/pages/registerform.html",
+		"/E/SC_f62/src/pages/myschool.html",
+		"/E/SC_f62/src/assets/scss/components/_chosen.scss",
+		"/E/SC_f62/src/assets/css/chosen.css",
+		"/E/SC_f62/src/assets/css/chosen.min.css",
+		"/E/SC_f62/bower_components/foundation-sites/scss/components/_tooltip.scss",
+		"/E/SC_f62/src/layouts/nologin.html",
+		"/E/SC_f62/src/pages/clubz.html",
+		"/E/SC_f62/src/layouts/registerform.html",
+		"/E/SC_f62/gulpfile.babel.js",
+		"/E/SC_f62/src/partials/registerform.html",
+		"/E/SC_f62/src/partials/mainNavigationBar.html",
+		"/E/SC_f62/bower.json",
+		"/E/SC_f62/src/partials/footer.html",
+		"/C/Users/Bobb/Desktop/Fix error 6C10 on Canon Printers.htm",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/assets/scss/app.scss",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/pages/index.html",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/layouts/default.html",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/assets/scss/components/_sc.scss",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/assets/js/scripts.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/app/main.ts",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/app/app.component.ts",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/gulpfile.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/package.json",
+		"/E/SC_f62/package.json",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/dist/assets/js/scripts.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/bower_components/foundation-sites/scss/grid/_grid.scss",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/bower.json",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/partials/mainNavigationBar.html",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/assets/scss/components/sc.scss",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/karma.conf.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/node_modules/angular2/package.json",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/app/main.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/src/assets/js/app.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/tsconfig.json",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/app/main.ts",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/app/app.component.ts",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/dist/assets/js/app.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/dist/assets/js/app/main.js",
+		"/E/dc/SchoolClubZ/develop/SchoolClubz/npm-debug.log",
+		"/E/dc/prodesign/Konstruktive/tmp/projects.json",
+		"/E/dc/prodesign/Konstruktive/tmp/estates.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"startTimer",
+			"sections",
+			"onepage",
+			"onMouseScrollDown",
+			"resize",
+			"#container",
+			"addEventListeners",
+			"onMouseDown",
+			"x=",
+			"chunk",
+			"normalize:",
+			"var len",
+			"chunk",
+			"chunk =",
+			"normalize",
+			"\"\n",
+			"Title",
+			"Title\n",
+			"normalize:",
+			"Modernizr",
+			".len",
+			"len",
+			"Modernizr",
+			"js",
+			"linkticle_bw",
+			"images/",
+			"<h1",
+			">\n",
+			"069c95",
+			"gradient",
+			"bg-image-overlay",
+			"cover-bg-image",
+			"legacy-direction",
+			"2cd9a6",
+			"Roboto",
+			"\n@font-face {\n    font-family: 'hkgrotesk-medium';\n    src: url('hkgrotesk-medium-web.eot');\n    src: url('hkgrotesk-medium-web.eot?#iefix') format('embedded-opentype'),\n         url('hkgrotesk-medium-web.woff2') format('woff2'),\n         url('hkgrotesk-medium-web.woff') format('woff'),\n         url('hkgrotesk-medium-web.ttf') format('truetype'),\n         url('hkgrotesk-medium-web.svg#hkgrotesk-medium-web') format('svg');\n    font-weight: normal;\n    font-style: normal;\n}",
+			"pfregaldisplaypro-regular-webfont",
+			"Roboto",
+			"last-child",
+			"icon",
+			"show-all-top-estates",
+			"@extend",
+			"place-region-icon",
+			"scale-color",
+			"\n    <div class=\"small-12 medium-4 columns\">\n      <div class=\"actual-offer-object\">\n        <img src=\"http://placehold.it/380x260\" />\n        <div class=\"small-12 columns\">\n          <p>Offer 1 heading</p>\n          <a href=\"#\" class=\"button\">Go</a>\n        </div>\n      </div>\n    </div>",
+			"item",
+			"columns",
+			"slow",
+			"\"\n",
+			"22. Menu",
+			"';\n",
+			"checkb",
+			"check",
+			";\n",
+			"breakpoints",
+			"header-sizes",
+			"grid-column-gutter",
+			"\n\t\t\t.clubz-list {\n\t\t\t\tmargin-left: 0;\n\t\t\t\tli {\n\t\t\t\t\tpadding-bottom: 12px;\n\t\t\t\t\tpadding-top: 10px;\n\t\t\t\t\tborder-bottom: 1px solid $light-gray;\n\t\t\t\t\tlist-style-type: none;\n\t\t\t\t\t&:last-child {\n\t\t\t\t\t\tborder-bottom: none;\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\tspan {\n\t\t\t\t\tfont-weight: bold;\n\t\t\t\t\tcolor: $dark-gray;\n\t\t\t\t\tdisplay: block;\n\t\t\t\t\tmargin-bottom: 6px;\n\t\t\t\t}\n\t\t\t\ta {\n\t\t\t\t\tdisplay: block;\n\t\t\t\t}\n\t\t\t}",
+			"fcae49",
+			"dashboard",
+			"no-page-header",
+			"sidebar",
+			"last-child",
+			"switch",
+			"club",
+			"after",
+			"#fd1c1c",
+			"#fdbb1c",
+			"#45bb36",
+			"45bb36",
+			"fd1c1c",
+			"fdbb1c",
+			"fd1c1c",
+			"svg",
+			".mb-10 {\n\tmargin-bottom: 10px !important;\n}\n",
+			" ",
+			"  ",
+			"overlay",
+			"columns",
+			"club-sidebar",
+			"primary",
+			"!",
+			"help",
+			"nth",
+			"fc",
+			".menu",
+			"Table",
+			"shadow",
+			"fullWidth",
+			"StartHour",
+			"Repeat",
+			"padding",
+			"QuickAddClub",
+			"placeholder",
+			"url('",
+			"url(",
+			"shadow",
+			"label",
+			"f1f1f1",
+			"svg",
+			"lgih",
+			"warning",
+			"button",
+			"reveal",
+			"$body-background",
+			"eff7f7",
+			"off-canvas-content",
+			"\n        //left: 'prev,next today',\n        //center: 'title',\n        //right: 'month,agendaWeek,agendaDay'",
+			"\"\n",
+			"ProximaNova",
+			"input",
+			"\n\t\t\t\t\t\t\t<div class=\"small-12 medium-6 columns calendarium\">\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t</div>",
+			"\n\t\t\t<div class=\"small-12 medium-9 columns\">\n\t\t\t\t<!-- add session form -->\n\t\t\t\t<div class=\"row fullWidth\">\n\t\t\t\t\t<div class=\"small-12 columns\">\n\t\t\t\t\t\t<h1>Create club calendar</h1>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"row fullWidth\">\n\t\t\t\t\t<div class=\"small-12 columns\">\n\t\t\t\t\t\t<div class=\"callout yellow\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t<div class=\"row fullWidth\">\n\t\t\t\t\t\t\t\t<form id=\"AddCalendarSession\">\n\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-3 columns termSet\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"description label\">Select term:</div>\n\t\t\t\t\t\t\t\t\t\t<label for=\"Term\" class=\"select\">\n\t\t\t\t\t\t\t\t\t\t\t&nbsp;\n\t\t\t\t\t\t\t\t\t\t\t<select id=\"Term\">\n\t\t\t\t\t\t\t\t\t\t\t\t<option value=\"\">Select...</option>\n\t\t\t\t\t\t\t\t\t\t\t\t<option value=\"\">Spring, May-Aug 2016</option>\n\t\t\t\t\t\t\t\t\t\t\t\t<option value=\"\">Autumn, Sep-Dec 2016</option>\n\t\t\t\t\t\t\t\t\t\t\t</select>\n\t\t\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-7 columns timeSet\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"description label\">Create club session on</div>\n\t\t\t\t\t\t\t\t\t\t<div class=\"row fullWidth\">\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-3 columns\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span>Each</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"DayBack\"><img src=\"assets/img/counter-up.svg\" alt=\"up\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<input id=\"Days\" class=\"numbers\" type=\"text\" value=\"Monday\" readonly></input>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"DayUp\"><img src=\"assets/img/counter-down.svg\" alt=\"down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-4 columns\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span>starts at</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"switcher\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"StartHoursBack\"><img src=\"assets/img/counter-up.svg\" alt=\"up\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input id=\"StartHour\" class=\"numbers\" type=\"text\" value=\"11\" maxlength=\"2\"></input>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"StartHoursUp\"><img src=\"assets/img/counter-down.svg\" alt=\"down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"StartMinutesBack\"><img src=\"assets/img/counter-up.svg\" alt=\"up\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input id=\"StartMinutes\" class=\"numbers\" type=\"text\" value=\"00\" maxlength=\"2\"></input>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"StartMinutesUp\"><img src=\"assets/img/counter-down.svg\" alt=\"down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"am badge active\"><a href=\"#\">AM</a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"pm badge\"><a href=\"#\">PM</a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-5 columns\">\n\t\t\t\t\t\t\t\t\t\t\t\t<span>and ends at</span>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"switcher\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"EndHoursBack\"><img src=\"assets/img/counter-up.svg\" alt=\"up\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input id=\"EndHour\" class=\"numbers\" type=\"text\" value=\"12\" maxlength=\"2\"></input>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"EndHoursUp\"><img src=\"assets/img/counter-down.svg\" alt=\"down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"EndMinutesBack\"><img src=\"assets/img/counter-up.svg\" alt=\"up\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<input id=\"EndMinutes\" class=\"numbers\" type=\"text\" value=\"00\" maxlength=\"2\"></input>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<a href=\"#\" id=\"EndMinutesUp\"><img src=\"assets/img/counter-down.svg\" alt=\"down\"></a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"am badge\"><a href=\"#\">AM</a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"pm badge active\"><a href=\"#\">PM</a></div>\n\t\t\t\t\t\t\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t\t<div class=\"small-12 medium-2 columns\">\n\t\t\t\t\t\t\t\t\t\t<div class=\"description label empty\">&nbsp;</div>\n\t\t\t\t\t\t\t\t\t\t<label for=\"AddSession\">\n\t\t\t\t\t\t\t\t\t\t\t&nbsp;\n\t\t\t\t\t\t\t\t\t\t\t<input id=\"AddSession\" class=\"button\" type=\"submit\" value=\"Add session\"></input>\n\t\t\t\t\t\t\t\t\t\t</label>\n\t\t\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</form>\n\t\t\t\t\t\t\t</div>\n\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t<!-- add session form -->\n\t\t\t</div>",
+			"button",
+			"foundation-palette",
+			"primary-color",
+			"footer",
+			"select",
+			"17",
+			"padding",
+			"bg-color",
+			"$h-font",
+			"\n\t\t\t\t\t\t\t<label>\n\t\t\t\t\t\t\t\tWebsite\n\t\t\t\t\t\t\t\t<input type=\"text\"></input>\n\t\t\t\t\t\t\t</label>",
+			"\n\t\t\t\t\t\t\t<label>\n\t\t\t\t\t\t\t\tSchool name\n\t\t\t\t\t\t\t\t<input type=\"text\"></input>\n\t\t\t\t\t\t\t</label>",
+			"menuTexts",
+			"\n@keyframes width-out {\n    from {width: 10em;}\n    to {width: 4em;}\n}\n@keyframes width-in {\n    from {width: 4em;}\n    to {width: 10em;}\n}",
+			"menuTexts",
+			"global"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/img/",
+			"09bb82",
+			"hkgrotesk-regular",
+			"hkgrotesk-regular-web",
+			"fast",
+			"$SC-red",
+			"$SC-orange",
+			"$SC-green",
+			"expanded",
+			"url('../img/",
+			"url(../img/",
+			"light",
+			"body-background",
+			"text",
+			"small-12"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/assets/scss/_settings.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14696,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5655,
+								5650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/assets/scss/components/_lnkt.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5539,
+								5539
+							]
+						],
+						"settings":
+						{
+							"auto_name": "lnkt.scss",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3690.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/assets/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22554,
+								22554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 10243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/pages/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								607,
+								607
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/partials/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								74
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "linkticle.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 333.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
